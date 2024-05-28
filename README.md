@@ -57,7 +57,10 @@ Actualmente estoy estudiando en el bootcamp de laboratoria, en el que he realizo
   <br/>
 - Text Analizer<br/>
 - Dataverse <br/>
-- Dataverse-chat
+- Dataverse-chat <br/>
+- Burger queen API <br/>
+- Fleet Management API <br/>
+
 
 <br/>
 
