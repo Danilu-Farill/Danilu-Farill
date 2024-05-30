@@ -10,7 +10,7 @@ Dataverse-Chat: Extensión de página web con características interactivas de p
 Dataverse: Página de tarjetas de personajes con funcionalidades de búsqueda, filtrado y ordenamiento.
 Text Analyzer: Herramienta de análisis de texto y números construida con Vanilla JS.
 
-<br><br> 
+<br>
 
 🌱 Aprendizaje y Crecimiento
 Estoy comprometida con el aprendizaje continuo y la mejora constante. Mi tiempo en Laboratoria me inculcó un fuerte sentido de resiliencia, trabajo en equipo y la capacidad de adaptarme a nuevos desafíos. Siempre estoy dispuesta a asumir nuevos proyectos y aprender nuevas tecnologías.
