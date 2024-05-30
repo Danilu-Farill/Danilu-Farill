@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Gladis Danilu Farill Casiano, una apasionada desarrolladora web de la Ciudad de México. Recientemente me gradué del Bootcamp de Laboratoria, donde perfeccioné mis habilidades en el desarrollo tanto de front-end como de back-end.<br><br>🌟 Mi Trayectoria<br>Mi viaje en el desarrollo web comenzó con un enfoque en JavaScript, donde desarrollé con éxito tres proyectos utilizando Vanilla JS, HTML y CSS. Esta base me permitió escribir código limpio y mantenible. Luego avancé a tecnologías de back-end, completando proyectos con Node.js, Express.js y varias bases de datos como MongoDB y PostgreSQL.
+👋 ¡Hola! Soy Gladis Danilu Farill Casiano, una apasionada desarrolladora web de la Ciudad de México. Recientemente me gradué del Bootcamp de Laboratoria, donde perfeccioné mis habilidades en el desarrollo tanto de front-end como de back-end.<br><br>
+
+🌟 Mi Trayectoria<br>Mi viaje en el desarrollo web comenzó con un enfoque en JavaScript, donde desarrollé con éxito tres proyectos utilizando Vanilla JS, HTML y CSS. Esta base me permitió escribir código limpio y mantenible. Luego avancé a tecnologías de back-end, completando proyectos con Node.js, Express.js y bases de datos como MongoDB y PostgreSQL.<br><br>
+
+🚀 Proyectos
+Fleet-Management-API: Gestión de trayectorias de taxis usando Node.js y PostgreSQL.
+Burger-queen-API: API de registro de usuarios con autenticación y autorización usando JWT.
+Dataverse-Chat: Extensión de página web con características interactivas de personajes usando OpenAI.
+Dataverse: Página de tarjetas de personajes con funcionalidades de búsqueda, filtrado y ordenamiento.
+Text Analyzer: Herramienta de análisis de texto y números construida con Vanilla JS.
+
+<br><br> 
+
+🌱 Aprendizaje y Crecimiento
+Estoy comprometida con el aprendizaje continuo y la mejora constante. Mi tiempo en Laboratoria me inculcó un fuerte sentido de resiliencia, trabajo en equipo y la capacidad de adaptarme a nuevos desafíos. Siempre estoy dispuesta a asumir nuevos proyectos y aprender nuevas tecnologías.
 
 
 ## 🌐 Socials:
